@@ -3,6 +3,7 @@ Drawing upon what we learned this semester (Spring 2023), we developed an AI-pow
 
 Collaboration with:
 Osaid Zeyad: https://www.linkedin.com/in/osaid-zeyad-a49094210/ 
+
 Andres Cortes: https://www.linkedin.com/in/andres-c-a10908111/
 
 
